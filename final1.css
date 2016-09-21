@@ -1,0 +1,98 @@
+html{
+		color:#808080;
+	}
+	
+	body {
+		font-family: "azo-sans-web";
+		margin: 0;
+	}
+	
+	p {
+		font-family: "azo-sans-web";
+	}
+	
+	a {
+		font-family: 'Raleway', sans-serif;
+		text-decoration: none;
+		color:#F2989B;
+	}
+	
+	h3 {
+		font-family: "madre-script";
+		text-decoration: none;
+		color:#F2989B;
+	}
+	
+	h2{
+		font-family: "madre-script";
+		color:#F2989B;
+	}
+
+	h1{
+		font-family: "madre-script";
+		color: #F2989B;
+	}
+	
+	footer {
+		font-family: 'Open Sans Condensed', sans-serif;
+		color: #E3A434;
+	}
+	
+	#what-i-do {
+		background-color: #F2989B;
+		color: #FFF;
+		padding: 80px;
+		margin-top: 50px;
+		margin-bottom: 0px;
+	}
+	
+	#what-i-do p {
+		max-width: 500px;
+		margin: 0 auto;
+	}
+
+	#follow-me {
+		color: #E3A434;
+	}
+	
+	#Me-ori {
+		color: #E3A434;
+	}
+
+	#so-me {
+		color: #E3A434;
+	}
+	
+	
+.ori: nth-child(1){
+
+	animation-duration: 1s;
+}
+
+.b {
+	position: absolute; right: 410px; top: 135px;
+	padding-top: 280px;
+	padding-bottom: 280px;
+}
+
+.indesign {
+	padding-top: 40;
+	float: left;
+	-webkit-transition: width 1s; 
+    transition: width 1s;
+}
+
+.indesign:hover {
+	width: 300px;
+}
+
+.word {
+	padding-top: 10;
+	float: right;
+	-webkit-transition: width 1s; 
+    transition: width 1s;
+}
+
+.word:hover {
+	width: 200px;
+}
